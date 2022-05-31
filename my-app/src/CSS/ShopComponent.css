@@ -1,0 +1,115 @@
+#row-shop {
+    /* border: 2px solid blue; */
+
+}
+
+#col-shop {
+    /* border: 2px solid gray; */
+    height: 573px;
+    width: 250px;
+    background-color: whitesmoke;
+    border-bottom: 1px solid rgb(170, 165, 165);
+    border-right: 1px solid rgb(136, 136, 136);
+    margin-right: 35px;
+    box-shadow: 2px 2px 2px 2px;
+    color: rgb(200, 200, 200);
+
+}
+
+
+#col-shop-2 {
+    border: 2px solid black;
+    width: 78%;
+    display: contents;
+
+}
+
+#pro-img {
+    /* border: 1px solid black; */
+    height: 250px;
+    width: 100%;
+}
+
+#row-shop {
+    width: auto;
+    max-width: 100%;
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+}
+
+
+
+
+/* ///////////////////////////////////////////// side panel ////////////////////////////////////////////// */
+
+#select-1 {
+    margin: 12px 4px 4px 4px;
+    background-color: rgb(186, 184, 184);
+
+}
+
+#select-2 {
+    margin: 4px 4px 12px 4px;
+    background-color: rgb(186, 184, 184);
+}
+
+/* ///////////////////////////// product diasplay //////////////////////////////////////////// */
+
+#main-col-shop {
+    padding: 10px 10px 2px 5px;
+    margin: 30px 2px 2px 6px;
+    width: 306px;
+    height: auto;
+    max-height: 100%;
+}
+
+#main_card {
+    height: auto;
+    max-height: 100%;
+
+}
+
+#col-shop-1 {
+    display: contents;
+
+    width: auto;
+    max-width: 100%;
+    border-top: 1px solid rgb(136, 136, 136);
+    margin-top: 12px;
+    margin-left: 12px;
+}
+
+
+
+
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+#filter-product {
+    border: 2px solid black;
+    display: flex;
+
+    width: 78%;
+}
+
+body {
+    background-color: gray;
+}
+
+#add-btn{
+    font-family: 'Tiro Tamil', serif;
+    margin-left: 29px;
+    padding: 4px;
+    font-size: 17px;
+}
+
+#add-btn:hover{
+    font-family: 'Tiro Tamil', serif;
+    background-color: #f5f5f5;
+    border: 2px solid black;
+}
+
+#pro-card:hover{
+    cursor: pointer;
+    size: 12px;
+}

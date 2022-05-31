@@ -1,0 +1,251 @@
+.container {
+    /* border: 2px solid black; */
+    justify-content: center;
+    
+
+}
+
+.card {
+    border: 1px solid gray;
+    float: none;
+    display: flex;
+    padding: 0px;
+    margin: 15px;
+    width: auto;
+    height: auto;
+
+}
+.page_card {
+    float: none;
+    display: flex;
+    padding: 0px;
+    margin: 15px;
+    width: auto;
+    height: auto;
+
+}
+
+#cardimg{
+    border: 1px solid black;
+    padding: 2px;
+    margin: 4px;
+    width: 260px;
+    height: 260px;
+
+}
+
+#card_info{
+    border:1px solid black;
+    padding: 2px;
+    margin: 4px;
+    width: 830px;
+}
+
+#proname{
+    padding: 25px;
+    margin: 2px;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 35px;
+    color: #686868;
+}
+#proname:hover{
+    color: black;
+    cursor: pointer;
+}
+
+#D_row{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Crimson Text', serif;
+    font-size: 22px;
+    color: #686868;
+}
+
+#D_row .col{
+    margin: 1px 1px 1px 1px;
+    padding: 1px 1px 1px 1px;
+    width: -webkit-fill-available;
+}
+
+#second-D_row{
+    padding: 10px;
+    margin: 10px;
+}
+
+#second-D_row > .col{
+    margin: 1px 1px 1px 1px;
+    padding: 1px 1px 1px 1px;
+    width: -webkit-fill-available;
+    color: #686868;
+}
+
+#prodetail{
+    float: left;
+}
+
+/* ///////////////////////// EMPTY BAG ////////////////////////// */
+
+body {
+    font-size: 17px;
+    line-height: 1.47059;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-color: #fff;
+    color: #1d1d1f;
+    font-style: normal;
+}
+
+.rs-bag-content{
+    /* border: 2px solid blue; */
+    text-align: left;
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+
+.as-l-container {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+.rs-bag-header {
+    font-size: 40px;
+    line-height: 2.1;
+    font-weight: 6;
+    letter-spacing: 0px;
+    font-family: SF Pro Display,SF Pro Icons,AOS Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    padding-bottom: 2px;
+}
+
+#bagempty{
+    /* border: 1px solid blue; */
+    padding: 2px;
+    margin: 2px ;
+}
+
+#rs-bagempty-message{
+    margin-top: 0.8em;
+    width: 650px;
+}
+
+#rs-bagempty-actions {
+    margin-top: 32px;
+}
+
+#rs-bagempty-button {
+    width: 21.17647rem;
+}
+
+#form-button {
+    cursor: pointer;
+    text-align: center;
+    font-size: 17px;
+    line-height: 1.17648;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    min-width: 28px;
+    padding: 18px 31px;
+   
+    display: block;
+    width: 100%;
+    background: rgba(0,0,0,.08);
+    color: #000;
+    border-radius: 12px;
+    white-space: normal;
+    display: inline-block;
+}
+
+#as-chat{
+    border-bottom: 1px solid #d2d2d7;
+    border-top: 1px solid #d2d2d7;
+    margin-top: 48px;
+    padding: 0;
+    text-align: left;
+
+}
+
+/* .as-l-container {
+    
+} */
+
+
+.container-md {
+    padding: 21px 0;
+    letter-spacing: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+}
+
+
+/* ////////////////////////////////////// bag image //////////////////////////////////// */
+
+#rs-bag-productspotlight{
+    /* border: 2px solid gray; */
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+
+#dd-l-plate{
+    /* border: 2px solid black; */
+    margin: 0px;
+    padding: 0px;
+}
+
+#dd-l-plate > img{
+    height: 400px;
+    width: 980px;
+}
+
+
+
+/* /////////////////////////// maping item /////////////////////////////////// */
+
+#delete{
+    /* border: 2px solid black; */
+    /* color: red; */
+}
+#delete-btn{
+    /* border: 2px solid black; */
+    height: 35px;
+    width: 25px;
+    color: #8a8a8a;
+}
+#delete-btn:hover{
+    color: red;
+    cursor: pointer;
+}
+
+#main-card{
+    /* border: 2px solid gray; */
+    padding: 0px;
+    margin: 0px;
+   
+}
+
+
+#cardimg{
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+#paper{
+    margin: 25px 2px 25px 2px;
+}
+
+#pro-img-bag{
+    height: 240px;
+    width: 240px;
+}
+
+
+#add-dele-q{
+    padding: 2px;
+    margin: 2px;
+}
+
+
+

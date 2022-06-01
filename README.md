@@ -1,8 +1,8 @@
-The Application is based on an online E-commerce Website
-In this project user login and register page to create account
+The Application is based on an online E-commerce Website.
+In this project user login and register page to create account.
 In this project basic cart functionality of product website is made using react-redux.
-Node Mailer is used in support component 
-In cart component you can add and delete product
+Node Mailer is used in support component. 
+In cart component you can add and delete product.
 
 ![Screenshot (106)](https://user-images.githubusercontent.com/106603079/171340631-cb696bc1-4e82-4ab4-8c3e-5d6d5470f86b.png)
 ![Screenshot (107)](https://user-images.githubusercontent.com/106603079/171340644-09adaa7c-5515-4665-ba17-c53f6dcdfed5.png)
